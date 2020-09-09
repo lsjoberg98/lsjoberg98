@@ -17,7 +17,7 @@ Hi, I'm Lucas Sjöberg, a Game Developer 🚀 from Helsinki, currently, I'm a So
 **Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on 3D Game engines;
-- 🌱 I’m currently focusing on C++;
+- 🌱 I’m currently focusing on C/C++;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Pineapple should always be on Pizza;
 - 📫 How to reach me: lsjoberg@student.hive.fi;
