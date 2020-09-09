@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Lucas!] 
+### Hey 👋🏽, I'm Lucas!
 
 
 <a href="https://www.linkedin.com/in/lucas-sjoberg/">
