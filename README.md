@@ -13,14 +13,13 @@
 
 Hi, I'm Lucas Sjöberg, a Game Developer 🚀 from Helsinki, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Hive](https://www.hive.fi/en/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing Rocket League.
 
-  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
 
-**Talking about Personal Stuffs:**
+**Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on 3D Game engines;
 - 🌱 I’m currently learning C#; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Pineapple should allways be on Pizza;
+- ⚡️ Fun-Fact: Pineapple should always be on Pizza;
 - 📫 How to reach me: lsjoberg@student.hive.fi;
 
 **Languages and Tools:**  
