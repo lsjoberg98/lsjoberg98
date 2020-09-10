@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Lucas Sjöberg, a Game Developer 🚀 from Helsinki, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Hive](https://www.hive.fi/en/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing Rocket League.
+Hi, I'm a Game Developer 🚀 from Helsinki, currently, I'm a Software Engineering Student at 🙍🏽‍♂️ [@Hive](https://www.hive.fi/en/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing Rocket League.
 
 
 **Personal Stuff:**
