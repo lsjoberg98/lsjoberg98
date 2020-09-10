@@ -11,7 +11,7 @@
 <br />
 <br />
 
-I'm a Game Developer from Helsinki 🚀 And I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️  I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing Rocket League.
+I'm a Game Developer from Helsinki 🚀 And I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️  I'm a creative problem solving enthusiast, with a constantly growing love for developing games. Beside's programming, I enjoy playing Rocket League.
 
 
 **Personal Stuff:**
