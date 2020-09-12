@@ -18,7 +18,7 @@ I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍�
 **Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on 3D Game engines
-- ⚡️ I’m currently focusing on C/C++
+- ⚡️ I’m currently focusing on mastering C/C++
 - 💬 Ask me anything, I am happy to help
 - 🌱 Fun-Fact: Pineapple should always be on Pizza
 - 📫 How to reach me: lsjoberg@student.hive.fi
