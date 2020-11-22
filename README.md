@@ -12,7 +12,7 @@
 
 
 
-I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️🚀 I'm a creative problem solving enthusiast, with a constantly growing love for developing games. Beside's developing them, I enjoy playing them too.
+I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️🚀 I'm a creative problem solving enthusiast, with a constantly growing love for developing games. Besides developing them, I enjoy playing them too.
 
 
 **Personal Stuff:**
