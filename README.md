@@ -4,15 +4,13 @@
 <a href="https://www.linkedin.com/in/lucas-sjoberg/">
   <img align="left" alt="Lucas' LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/llucassjoberg/">
-  <img align="left" alt="Lucas' instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 
 
 
 
-I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️🚀 I'm a creative problem solving enthusiast, with a constantly growing love for developing games. Besides developing them, I enjoy playing them too.
+
+I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️🚀 I'm a creative problem solving enthusiast, with a constantly growing love for developing games.
 
 
 **Personal Stuff:**
