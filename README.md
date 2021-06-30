@@ -8,7 +8,7 @@
 
 
 
-
+</br>
 
 I'm a Software Engineering Student [@Hive](https://www.hive.fi/en/)🙍🏽‍♂️🚀 I'm a creative problem solving enthusiast, with a constantly growing love for developing games.
 
